@@ -7,7 +7,7 @@ const Landing = () => {
   const visualizations = [
     {
       id: "simulated-annealing",
-      title: "Simulated Annealing",
+      title: "Simulated Annealing: Traveling Salesman Problem",
       description: "Interactive exploration of the Traveling Salesman Problem using simulated annealing optimization.",
       path: "/simulator",
       icon: <Compass className="h-6 w-6" />,
